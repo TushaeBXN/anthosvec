@@ -1,0 +1,8 @@
+__pycache__/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+anthosvec_example/
+anthosvec_quickstart/
+.DS_Store
