@@ -1,5 +1,9 @@
 # AnthosVec
 
+[![tests](https://github.com/TushaeBXN/anthosvec/actions/workflows/test.yml/badge.svg)](https://github.com/TushaeBXN/anthosvec/actions/workflows/test.yml)
+[![PyPI](https://img.shields.io/pypi/v/anthosvec)](https://pypi.org/project/anthosvec/)
+[![license](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+
 **An open-source, in-process vector database — lightweight, dependency-free (numpy only), and designed to embed directly into your application.**
 
 By [Anthos Intelligence](https://github.com/TushaeBXN/anthos). Think SQLite, but for vectors: no server to run, no service to configure, no network hop. `pip install`, open a directory, search.
